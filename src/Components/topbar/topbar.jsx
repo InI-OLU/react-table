@@ -1,4 +1,4 @@
-import Logo from '../../assets/svg/logo.svg'
+import Logo from '../../Assets/svg/logo.svg'
 import './topbar.css'
 import Searchbar from '../../utils/Searchbar/searchbar'
 import Avatar from '../../utils/Avatar/Avatar'
