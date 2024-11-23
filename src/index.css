@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .body{
+    width: 100%;
+    overflow-x: hidden;
+  }
+  a{
+    text-decoration: none;
+  }
+  button{
+    border: none;
+    outline: none;
+  }
+  .Logon{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    gap: 10px;
+  }
+  .Logon p{
+    color: #214aa0;
+    font-weight: 500;
+    font-size: 21px;
+  }
+  .Logon button{
+    background: #214aa0;
+    color: white;
+    padding: 16px;
+    border-radius: 12px;
+    width: 200px;
+  }
+  .logpo{
+    width: 60%;
+    gap: 4px;
+  }
+  .emily{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+  }
+  .profile{
+    display: flex;
+    flex-direction:column;
+  }
